@@ -1,4 +1,4 @@
-# Airbnb-Istanbul-ReviewScorePrediction
+# Airbnb-Istanbul-Data-Exploration
 
 #Aim of the project
 
