@@ -18,3 +18,6 @@ Results
 - Localities of Beyoglu; Tarlabasi, Cihangir, Arapcami and Kemankes have gained great popularity in recent years for the accommodation of tourists.
 - Prince Islands is the most expensive district to stay.
 - Taksim Square, Galata Tower, Blue Mosque, Hagia Sophia and Grand Bazaar are the most popular touristic attractions in the city.
+
+
+Python packages used in this study can be found in requirements.txt file.
