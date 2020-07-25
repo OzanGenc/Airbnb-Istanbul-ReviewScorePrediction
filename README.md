@@ -6,12 +6,12 @@ Here, we conduct exploratory data analysis using Airbnb data for Istanbul. The d
 2) Which districts are most expensive to stay for tourists?
 3) What do visitors say about most popular districts?
 
-
+<p>&nbsp;</p>
 
 ![alt text](https://github.com/OzanGenc/Airbnb-Istanbul-Data-Exploration/blob/master/map.png)
 
 
-
+<p>&nbsp;</p>
 
 Results
 - Beyoglu and Fatih are the most popular districts.
