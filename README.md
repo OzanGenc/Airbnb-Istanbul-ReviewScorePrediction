@@ -8,7 +8,5 @@ Here, we conduct both exploratory and predictive data analysis using Airbnb data
 2) Which districts are most expensive to stay for tourists?
 3) What do visitors say about most popular districts?
 
-#Dependencies
-
 
 #Analysis Results
